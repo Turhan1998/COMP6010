@@ -1,0 +1,10 @@
+1. Dairy
+    1.1. Milk
+        1.1.1. Lactose-free
+        1.1.2. Full cream
+    1.2. Yoghurt
+2. Deli
+    2.1. Salami
+    2.2. Olives
+3. Snacks
+    3.1. Crisps

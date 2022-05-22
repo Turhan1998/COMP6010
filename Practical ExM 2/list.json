@@ -1,0 +1,8 @@
+data = [0] * 20
+print("List with 20 zeroes:\n\t",data)
+alternating_bits = [0, 1] * 10
+print("List with alternating bits:\n\t",alternating_bits)
+rgb = ['r', 'g', 'b'] * 5
+print("List with primary colour components:\n\t",rgb)
+
+
